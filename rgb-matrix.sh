@@ -5,7 +5,7 @@
 # hzeller/rpi-rgb-led-matrix sees lots of active development!
 # That's cool and all, BUT, to avoid tutorial breakage,
 # we reference a specific commit (update this as needed):
-GITUSER=https://github.com/hzeller
+GITUSER=https://github.com/EddieK08
 REPO=rpi-rgb-led-matrix
 COMMIT=84e1465e9ea5ed000011d05369c5287eaa361ad7
 # Previously: COMMIT=21410d2b0bac006b4a1661594926af347b3ce334
